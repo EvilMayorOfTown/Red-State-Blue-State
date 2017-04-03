@@ -17,7 +17,7 @@ The following files are included:
   
   republican.png - republican logo stencil.  
 
-The headlinescrape and makecloud scripts are run daily through cron or the windows task scheduler.  
+The headlinescrape and makecloud scripts are run daily through cron or the windows task scheduler.  I have also included sample data and images generated therefrom.  
   
   
   
